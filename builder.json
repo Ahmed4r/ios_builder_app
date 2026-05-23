@@ -1,0 +1,15 @@
+{
+  "project": "ios_builder_app",
+  "platform": "ios",
+  "github": {
+    "owner": "Ahmed4r",
+    "repo": "ios_builder_app"
+  },
+  "ios": {},
+  "flutter": {
+    "version": "3.41.9",
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
