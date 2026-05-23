@@ -6,7 +6,7 @@
     "repo": "ios_builder_app"
   },
   "ios": {
-    "path": "flutter_project/ios"
+    "path": "ios"
   },
   "flutter": {
     "watch": {}
